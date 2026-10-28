@@ -1,4 +1,4 @@
-# WannaCry Ransomware Simulation --- Isolated Windows 7 Lab
+# WannaCry Ransomware Simulation --> Isolated Windows 7 Lab
 
 > **Safety notice:** This repository documents an authorized, isolated
 > virtual-machine lab for cybersecurity education. It does **not**
